@@ -13,3 +13,7 @@ U can contact me on discord. My discord is Vp#0001
 ### Clients for 2b2t and other Minecraft anarchy servers that i use
 - Rusherhack (https://rusherhack.org) Use code Vp for discount !
 - Future  ( https://www.futureclient.net/forum/member.php?action=register&referrer=23773 )  Use that link to get to the forums !
+
+
+
+Fun fact: Herra means Sir. So my name (HerraVp) means SirVp.

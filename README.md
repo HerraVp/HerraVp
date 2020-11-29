@@ -11,7 +11,7 @@ Im from Finland (Best country on the world ;D)
 U can contact me on discord. My discord is Vp#0001
 
 ### Clients for 2b2t and other Minecraft anarchy servers that i use
-- Rusherhack (https://rusherhack.org) Use code Vp for discount !
+- Rusherhack (https://rusherhack.org) Use code Vp for discount when buying !
 - Future  ( https://www.futureclient.net/forum/member.php?action=register&referrer=23773 )  Use that link to get to the forums !
 
 

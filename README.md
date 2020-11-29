@@ -1,5 +1,6 @@
 ### Who i am ?
 Im a self taught Java developer who likes to make Minecraft mods/clients
+
 Im from Finland (Best country on the world ;D)
 
 ### What i am doing currently ? 

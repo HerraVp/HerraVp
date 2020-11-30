@@ -3,6 +3,9 @@ Im a self taught Java developer who likes to make Minecraft mods/clients
 
 Im from Finland (Best country on the world ;D)
 
+### What i know ?
+I know Python and Java. 
+
 ### What i am doing currently ? 
 - 🔭 I’m currently working on: Discord bot with ma homie ;^)
 - 🌱 I’m currently learning: More Java to get better at it. (rn Im kinda trash at it)

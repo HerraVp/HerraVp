@@ -11,7 +11,7 @@ I know Python and Java.
 - 🌱 I’m currently learning: More Java to get better at it. (rn Im kinda trash at it)
 
 ### How to contact me ?
-U can contact me on discord and my emai. 
+U can contact me on discord and my email. 
 
 My discord is Vp#0001
 

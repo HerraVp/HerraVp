@@ -1,5 +1,5 @@
 ### Who i am ?
-Im a self taught Java developer who likes to make Minecraft mods/clients
+Im a self taught Java/Python developer who likes to make Minecraft mods/clients and discord bots
 
 Im from Finland (Best country on the world ;D)
 

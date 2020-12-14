@@ -7,7 +7,7 @@ Im from Finland (Best country on the world ;D)
 I know Python, html and Java. 
 
 ### What i am doing currently ? 
-- 🔭 I’m currently working on: Discord bot
+- 🔭 I’m currently working on: Invisibility (Discord bot)
 - 🌱 I’m currently learning: More Java to get better at it. (rn Im kinda trash at it)
 
 ### How to contact me ?

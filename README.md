@@ -8,7 +8,7 @@ I know Python, html and Java.
 
 ### What i am doing currently ? 
 - 🔭 I’m currently working on: Invisibility (Discord bot)
-- 🌱 I’m currently learning: More Java to get better at it. (rn Im kinda trash at it)
+- 🌱 I’m currently learning: More Java
 
 ### How to contact me ?
 U can contact me on discord and my email. 

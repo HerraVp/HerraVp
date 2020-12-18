@@ -13,9 +13,9 @@ I know Python, html and Java.
 ### How to contact me ?
 U can contact me on discord and my email. 
 
-My discord is Vp#0001
+My discord is ```Vp#0001```
 
-My email is Vp2b2t@gmail.com
+My email is ```Vp2b2t@gmail.com```
 
 ### Clients for 2b2t and other Minecraft anarchy servers that i use
 - Rusherhack (https://rusherhack.org) Use code Vp for discount when buying !

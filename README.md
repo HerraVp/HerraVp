@@ -7,11 +7,13 @@
 - 🔭 &nbsp; I’m currently learning more Java.
 - 🤔 &nbsp; I’m currently working on Invisibilty (Discord bot).
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 What i know ?</h3>
 
 - 💻 &nbsp; Python | Java | C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript
-- 🔧 &nbsp; PyCharm | Visual Studio code | IntellijIDEA | Git
+
+<h3>🛠 What i use for coding ?</h3>
+- 🔧 &nbsp; PyCharm | Visual Studio code | IntellijIDEA
 
 <br>
 

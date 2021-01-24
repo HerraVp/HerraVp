@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- &nbsp; Im a (small brain) dev from Finland.
-- 🔭 &nbsp; I’m currently learning more Java.
+- &nbsp; Im a self taught (small brain) dev from Finland.
+
 - 🤔 &nbsp; I’m currently working on Invisibilty (Discord bot).
 
 <h3>🛠 What i know ?</h3>

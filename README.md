@@ -28,11 +28,9 @@
 
 <p align="center">
 
+My public email: ```Vp2b2t@gmail.com```
 
-&nbsp; <a href="Vp2b2t@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-
-
-&nbsp; <a href="My Discord:Vp#0001" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/discord"  width="50" /></a>
+My discord: ```Vp#0001```
 </p>
 
 

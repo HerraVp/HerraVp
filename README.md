@@ -8,7 +8,7 @@
 
 <h3>🛠 What i know ?</h3>
 
-- 💻 &nbsp; Python | Java | C++  
+- 💻 &nbsp; Python | Java  
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
 <h3>🛠 What i use for coding ?</h3>

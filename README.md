@@ -1,5 +1,4 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h2> Hello ! Im Vp ! </h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/HerraVp/HerraVp/master/vP.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

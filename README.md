@@ -13,7 +13,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
 <h3>🛠 What i use for coding ?</h3>
-- 🔧 &nbsp; PyCharm | Visual Studio code | IntellijIDEA
+🔧 &nbsp; PyCharm | Visual Studio code | IntellijIDEA
 
 <br>
 

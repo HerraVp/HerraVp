@@ -1,4 +1,4 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h2> Hello ! Im Vp ! </h2>
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h2> Hello, Im Vp ! </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

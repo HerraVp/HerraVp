@@ -35,3 +35,5 @@ My discord: ```Vp#0001```
 
 
  <a href="https://vp-dev.tk">Visit my webiste!</a>
+ 
+ https://page-views.glitch.me/badge?page_id=HerraVp.visitor-badge.issue.1

@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- &nbsp; Im a self taught (small brain) dev from Finland.
+- &nbsp; Im a self taught dev from Finland.
 
 - 🤔 &nbsp; I’m currently working on Invisibilty (Discord bot).
 

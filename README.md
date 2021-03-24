@@ -4,7 +4,7 @@
 
 - &nbsp; Im a self taught dev from Finland.
 
-- 🤔 &nbsp; I’m currently working on Invisibilty (Discord bot).
+- 🤔 &nbsp; I’m currently working on NOTHING (Im lazy af).
 
 <h3>🛠 What i know ?</h3>
 

@@ -1,10 +1,10 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h2> Hello, Im Vp ! </h2>
+<h2> Hello, Im Vp ! </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - &nbsp; Im a self taught dev from Finland.
 
-- 🤔 &nbsp; I’m currently working on NOTHING (Im lazy af).
+- 🤔 &nbsp; I’m currently working on Discord Bot.
 
 <h3>🛠 What i know ?</h3>
 
@@ -24,11 +24,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerraVp&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/HerraVp/github-readme-stats)
 
 
-<h3> Contact me </h3>
+<h3>How to contact me ?</h3>
 
 <p align="center">
 
-My public email: ```Vp2b2t@gmail.com```
+My email: ```Vp2b2t@gmail.com```
 
 My discord: ```Vp#0001```
 </p>

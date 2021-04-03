@@ -35,6 +35,6 @@ My discord: ```Vp#0001```
 </p>
 
 
- <a href="https://vp-dev.tk">Visit my webiste!</a>
+ ![Visit My Website!](https://vp-dev.tk/)
  
  ![Visitors](https://page-views.glitch.me/badge?page_id=HerraVp.visitor-badge.issue.1)

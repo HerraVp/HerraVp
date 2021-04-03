@@ -32,6 +32,7 @@
 <p align="left">
 
 > My discord: ```Vp#0001```
+> My email: ```vp2b2t@gmail.com```
 </p>
 
 

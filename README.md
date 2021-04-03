@@ -4,7 +4,7 @@
 
 - &nbsp; Im a self taught dev from Finland.
 
-- 🤔 &nbsp; I’m currently working on Discord Bot.
+- 🤔 &nbsp; I’m currently working on my own bleachhack skid. LOL
 
 <h3>🛠 What i know ?</h3>
 

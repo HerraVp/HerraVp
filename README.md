@@ -31,10 +31,10 @@
 
 <p align="left">
 
-My discord: ```Vp#0001```
+> My discord: ```Vp#0001```
 </p>
 
 
- https://vp-dev.tk/
+ > https://vp-dev.tk/
  
  ![Visitors](https://page-views.glitch.me/badge?page_id=HerraVp.visitor-badge.issue.1)

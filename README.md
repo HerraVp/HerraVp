@@ -4,7 +4,7 @@
 
 - &nbsp; Im a self taught dev from Finland.
 
-- 🤔 &nbsp; I’m currently working on bleachhack skid. LOL
+- 🤔 &nbsp; I’m currently working on ![bleachhack skid](https://github.com/HerraVp/BleachHack-VpEdition). LOL
 
 <h3>🛠 What i know ?</h3>
 

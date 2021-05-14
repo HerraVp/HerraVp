@@ -2,19 +2,34 @@
 
  ![Visitors](https://page-views.glitch.me/badge?page_id=HerraVp.visitor-badge.issue.1)
  
+ 
+ ### Languages:
+<br>
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+ <br/>
+
+<br>
+ <details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="Vp's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=HerraVp&show_icons=true&hide_border=true&theme=dark"/>
+</details>
+<br/>
+
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HerraVp&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vp's Github Stats">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerraVp&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/HerraVp/github-readme-stats)
-
-</br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerraVp&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/HerraVp/github-readme-stats)
+ 
+ <br/>
 
 
 
 <p align="left">
 
-> My discord: ```Vp#0001```
+<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/> >Vp#0001
 
 </p>
 

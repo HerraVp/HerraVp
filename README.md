@@ -13,11 +13,10 @@
  <br/>
 
 <br>
- <details>
     <summary>:zap: Github Stats</summary>
     <img align="left" alt="Vp's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=HerraVp&show_icons=true&hide_border=true&theme=dark"/>
-</details>
 <br/>
+
 
 <br>
 

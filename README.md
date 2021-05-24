@@ -2,6 +2,8 @@
 
  ![Visitors](https://page-views.glitch.me/badge?page_id=HerraVp.visitor-badge.issue.1)
  
+ ![Current project](https://github.com/HerraVp/BleachHack-VpEdition)
+ 
 
 
 <br>

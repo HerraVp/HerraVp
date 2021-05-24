@@ -11,6 +11,13 @@
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/HerraVp/github-readme-stats)
+
+<br/>
+
+
+<br>
+
  [![Vp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HerraVp)](https://github.com/anuraghazra/github-readme-stats)
  
  <br/>

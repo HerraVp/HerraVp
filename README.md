@@ -6,8 +6,10 @@
  ### Current Projects 
  ![BleachHack VpEdition](https://github.com/HerraVp/BleachHack-VpEdition) <- Hack Client for Minecraft version 1.16.5
  
+ 
 
-### Stats
+ ### Stats
+
 <br>
     <img align="center" alt="Vp's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=HerraVp&show_icons=true&hide_border=false&include_all_commits=true&theme=null"/>
 <br/>

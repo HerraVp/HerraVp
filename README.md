@@ -1,6 +1,6 @@
 
-
- ![Visitors](https://page-views.glitch.me/badge?page_id=HerraVp.visitor-badge.issue.1)
+![GitHub followers](https://img.shields.io/github/followers/HerraVp?style=social)
+![Visitors](https://page-views.glitch.me/badge?page_id=HerraVp.visitor-badge.issue.1)
  
  
  ### Current Projects 

@@ -4,7 +4,7 @@
  
  
  ### Current Projects 
- ![BleachHack VpEdition](https://github.com/HerraVp/BleachHack-VpEdition) <- Hack Client for Minecraft version 1.16.5
+ ![BleachHack VpEdition](https://github.com/HerraVp/BleachHack-VpEdition) <- Hack Client for Minecraft version 1.16.5 and 1.17
  
  
 

@@ -22,7 +22,7 @@
 <br/>
 
 
-### Contact info
+### Contact 
 
 <p align="left">
 

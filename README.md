@@ -18,7 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herravp&langs_count=8&theme=dark)](https://github.com/herravp/github-readme-stats)
 
-[![Vp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HerraVp)](https://github.com/herravp/github-readme-stats)
 <br/>
 
 

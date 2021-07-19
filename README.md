@@ -20,8 +20,11 @@
 
 <br/>
 
+<br>
+
 [![Vp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HerraVp)](https://github.com/herravp/github-readme-stats)
 
+<br/>
 
 ### Contact 
 
